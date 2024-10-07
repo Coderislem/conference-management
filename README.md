@@ -1,1 +1,1 @@
-"# conference-management" 
+A web-based conference management system built with Java Servlets and JSP. This application streamlines the process of organizing and managing academic conferences, from paper submissions to scheduling and attendee registration.
